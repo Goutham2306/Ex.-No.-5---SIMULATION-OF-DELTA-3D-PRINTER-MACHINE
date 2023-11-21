@@ -60,9 +60,7 @@ typically used to select and control print settings.
 ## Playing with Axes
 ![image](https://github.com/Goutham2306/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/138971154/1cd1a5af-9337-4986-b355-754c3601e9c4)
 
-### Output:
-### Name:Goutham.K
-### Register Number:23008975
+
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
